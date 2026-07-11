@@ -1,3 +1,9 @@
+NAME :
+INTERN ID :
+SELECTED FOR : FULL STACK WEB DEVELOPMENT
+DURATION : 4 WEEKS
+PROJECT NAME : AUTOMATED BILLING SYSTEM
+
 # Automated Billing System Dashboard
 
 A production-ready **ERP Billing Dashboard** built with React.js (Vite), Express.js, and MySQL.
